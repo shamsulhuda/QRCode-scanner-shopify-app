@@ -2,7 +2,7 @@
 
 name = "my-app-test"
 client_id = "72dcfc9b356dcffabfd4d6a50499ab75"
-application_url = "https://manhattan-despite-mrna-steel.trycloudflare.com"
+application_url = "https://arms-scary-dawn-elections.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://manhattan-despite-mrna-steel.trycloudflare.com/auth/callback",
-  "https://manhattan-despite-mrna-steel.trycloudflare.com/auth/shopify/callback",
-  "https://manhattan-despite-mrna-steel.trycloudflare.com/api/auth/callback"
+  "https://arms-scary-dawn-elections.trycloudflare.com/auth/callback",
+  "https://arms-scary-dawn-elections.trycloudflare.com/auth/shopify/callback",
+  "https://arms-scary-dawn-elections.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
